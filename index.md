@@ -1,3 +1,8 @@
+# Huy Pham's first CS193 Lab
+- GPA booster
+- Relaxed Instructors
+- Useful Knowledge
+- Attendance Policy
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -14,7 +19,6 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-####It's my first lab ever!
 
 - Bulleted
 - List
